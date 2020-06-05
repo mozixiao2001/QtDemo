@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>peizhi/TowersPosition.plist</file>
+        <file>image/map.png</file>
+        <file>image/tower.png</file>
+    </qresource>
+</RCC>
